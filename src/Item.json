@@ -1,0 +1,47 @@
+{
+  "foods": [
+    { "type": "fruits", "name": "Grapes", "price": 150, "image": "./" },
+    { "type": "fruits", "name": "Math", "price": 150, "image": "./" },
+    { "type": "fruits", "name": "Apple", "price": 150, "image": "./" },
+    { "type": "fruits", "name": "Apple", "price": 150, "image": "./" },
+    { "type": "veggies", "name": "Egg", "price": 150, "image": "./" },
+    { "type": "veggies", "name": "Bread", "price": 150, "image": "./" },
+    { "type": "veggies", "name": "Math", "price": 150, "image": "./" },
+    {
+      "type": "grains",
+      "name": "Milk",
+      "price": 150,
+      "image": "./asstes/images"
+    },
+    { "type": "grains", "name": "Egg", "price": 150, "image": "./" },
+    { "type": "grains", "name": "Bread", "price": 150, "image": "./" },
+    { "type": "grains", "name": "Math", "price": 150, "image": "./" },
+    {
+      "type": "roots",
+      "name": "Milk",
+      "price": 150,
+      "image": "./asstes/images"
+    },
+    { "type": "roots", "name": "Egg", "price": 150, "image": "./" },
+    { "type": "roots", "name": "Bread", "price": 150, "image": "./" },
+    { "type": "roots", "name": "Math", "price": 150, "image": "./" },
+    {
+      "type": "meats",
+      "name": "Milk",
+      "price": 150,
+      "image": "./asstes/images"
+    },
+    { "type": "meats", "name": "Egg", "price": 150, "image": "./" },
+    { "type": "meats", "name": "Bread", "price": 150, "image": "./" },
+    { "type": "meats", "name": "Math", "price": 150, "image": "./" },
+    {
+      "type": "poultry",
+      "name": "Milk",
+      "price": 150,
+      "image": "./asstes/images"
+    },
+    { "type": "poultry", "name": "Egg", "price": 150, "image": "./" },
+    { "type": "poultry", "name": "Bread", "price": 150, "image": "./" },
+    { "type": "poultry", "name": "Math", "price": 150, "image": "./" }
+  ]
+}
